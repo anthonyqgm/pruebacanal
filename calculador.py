@@ -1,3 +1,5 @@
+"""calculadora"""
+
 def Menu():
     """Funcion que Muestra el Menu"""
     print """************
